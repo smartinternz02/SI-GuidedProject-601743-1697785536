@@ -1,0 +1,24 @@
+
+
+dashboard:
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FKarthik%2BDashboard%2B1&action=view&mode=dashboard&subView=model0000018b413e8bf5_00000001
+
+
+My story:
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FKarthik%2Bstory2&action=view&sceneId=model0000018b41f3b223_00000000&sceneTime=5000
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2Fkarthik%2Bstory1&action=view&sceneId=model0000018b41ef85a8_00000000&sceneTime=0
+
+
+My Data:
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fmy%2Bdata%2B3&subView=model0000018b3cd8543e_00000000
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fmy%2Bnew%2Bdata&subView=model0000018b3c76a672_00000000
+
+
+Colab:
+
+https://colab.research.google.com/drive/1NQzlNLGMTd3MFWiP8s35ivyrUFFelBvj?usp=sharing
